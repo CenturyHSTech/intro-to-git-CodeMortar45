@@ -1,4 +1,4 @@
-## Git in my own words
+# Git in my own words
 ## What is Git
 ### Git is a control system that helps people overview their projects. Git allows yout to keep track of all changes  and history in software. It allows you to revert to previous versions of the project to redo any changes. Git allows you to make multiple versions of the same code to make changes without affecting the original file.
 ---
